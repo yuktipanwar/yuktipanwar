@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI and Machine learning**
 
-- 🌱 I’m currently learning **Advance Python**
+- 🌱 I’m currently learning **Advance DSA**
 
 - 📫 How to reach me **iamyuktipanwar@gmail.com**
 
