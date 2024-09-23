@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yukti Panwar</h1>
-<h3 align="center">A Third-year college student. Well versed with Java and cources like Artificial Intelligence  Machine learning. Understands basic computer science concepts. Has knowledge of common algorithms and core programming.</h3>
+<h1 align="center">Hi 👋, Hi there, </h1>
+<h3 align="center"> I’m a Software Developer Intern with a passion for coding and problem-solving. I have strong skills in Java, frontend development, and I specialize in Artificial Intelligence and Machine Learning. 🚀
+
+🔧 Currently honing my skills through hands-on experience and daily coding practice. I love building intelligent systems, and I'm constantly exploring new technologies to create impactful solutions.
+
+📚 Let's connect and collaborate on projects that blend innovation and technology!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuktipanwar&label=Profile%20views&color=0e75b6&style=flat" alt="yuktipanwar" /> </p>
 
-- 🔭 I’m currently working on **AI and Machine learning**
+- 🔭 I’m currently working on **Oracle NetSuite**
 
-- 🌱 I’m currently learning **Advance DSA**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **iamyuktipanwar@gmail.com**
 
