@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hi there, </h1>
+<h1 align="center">Hi there 👋,</h1>
 <h3 align="center"> I’m a Software Developer Intern with a passion for coding and problem-solving. I have strong skills in Java, frontend development, and I specialize in Artificial Intelligence and Machine Learning. 🚀
 
 🔧 Currently honing my skills through hands-on experience and daily coding practice. I love building intelligent systems, and I'm constantly exploring new technologies to create impactful solutions.
